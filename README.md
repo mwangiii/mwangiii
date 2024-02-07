@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hello, I'm KEVIN MWANGI! 👋
 
-<!--
-**mwangiii/mwangiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer from Kenya,Africa specializing in full-stack development with JavaScript technologies like React and Node.js. I graduated from African Leadership University (ALX Africa), where I honed my skills. Currently, I'm enhancing my UI/UX design skills through a course by Google.
 
-Here are some ideas to get you started:
+## SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack development with JavaScript (React, Node.js)
+- Data Structures and Algorithms in C
+- UI/UX design
+- Python programming
+
+## TOOLS
+
+- Python
+- Node.js
+- React
+- Redux
+- MongoDB
+
+
+# PROJECTS
+
+### CHROME EXTENSION - Color Picker
+[GitHub Repository](https://github.com/mwangiii/chrome-extension)
+
+This color picker extension simplifies the process of selecting colors for various elements, providing a user-friendly visual interface for precise color specification.
+
+### MAZE IN PYTHON
+[GitHub Repository](https://github.com/mwangiii/MazeGamePython)
+
+I created a Python maze using Turtle graphics and replicated it using CodeBoot. Both versions offer a fun way to navigate through challenges, enhancing accessibility and learning potential.
+
+### BRAVE GIRLS SITE
+[GitHub Repository](https://github.com/mwangiii/BraveGirls)
+
+I developed a Brave Girls website with a USSD service to assist women in need and a blog section for empowerment resources. This integrated platform aims to uplift and support women in various ways.
+- MySQL
+
+# I’M LOOKING TO COLLABORATE
+
+I'm seeking JavaScript and Python projects to enhance both my backend and frontend skills.
+
+# I’M LOOKING TO HELP WITH
+
+I can assist with advanced concepts in Node.js, React, Redux, Figma, Django, and Flask.
+
