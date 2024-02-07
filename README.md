@@ -1,6 +1,6 @@
 # Hello, I'm KEVIN MWANGI! 👋
 
-I'm a passionate Software Engineer from Kenya,Africa specializing in full-stack development with JavaScript technologies like React and Node.js. I graduated from African Leadership University (ALX Africa), where I honed my skills. Currently, I'm enhancing my UI/UX design skills through a course by Google.
+I'm a passionate full stack Software Engineer from Kenya,Africa. I graduated from African Leadership University (ALX Africa), where I honed my skills. Currently, I'm enhancing my UI/UX design skills through a course by Google.
 
 ## SKILLS
 
