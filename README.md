@@ -11,12 +11,6 @@
 </div>
 
 
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/5ymMYsPQ/greg.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -71,12 +65,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gregorymark254/gregorymark254/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mwangiii/mwangiii/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gregorymark254/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mwangiii/count.svg?"  />
 </div>
 
 ###
