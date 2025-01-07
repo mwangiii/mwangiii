@@ -42,5 +42,3 @@ An eCommerce platform built with **React** and **Tailwind**, offering secure tra
 ## Maze Generator  
 A Python project that uses **codeBoot** to create and visualize random mazes by manipulating pixel grids and removing walls algorithmically.  
 [Explore the Documentation](https://github.com/mwangiii/MazeGamePython) 
-
-Thank you for visiting my GitHub portfolio!
