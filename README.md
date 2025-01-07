@@ -2,7 +2,11 @@
 Welcome to my GitHub portfolio! I'm **software dev** and an aspiring **Cloud Developer** with expertise in:
 ## SKILLS
 ### **PROGRAMMING LANGUAGES**
-<span style="font-size:2rem;">![C](https://img.shields.io/badge/-C-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Python](https://img.shields.io/badge/-Python-green)</span>
+<span style="font-size:2rem;">![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![Python](https://img.shields.io/badge/-Python-green)
+![C](https://img.shields.io/badge/-C-blue)
+</span>
 
 ### **FRAMEWORKS**
 <span style="font-size:2em;">![Flask](https://img.shields.io/badge/-Flask-lightgrey) ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express](https://img.shields.io/badge/-Express-lightgrey)</span>
@@ -12,7 +16,14 @@ Welcome to my GitHub portfolio! I'm **software dev** and an aspiring **Cloud Dev
 
 ## TOOLS
 ### **DEVOPS TOOLS**
-<span style="font-size:1.2em;">![Ansible](https://img.shields.io/badge/-Ansible-red) ![Nginx](https://img.shields.io/badge/-Nginx-green) ![Apache](https://img.shields.io/badge/-Apache-black) ![Terraform](https://img.shields.io/badge/-Terraform-blue) ![Jenkins](https://img.shields.io/badge/-Jenkins-orange) ![SonarQube](https://img.shields.io/badge/-SonarQube-lightblue) ![Artifactory](https://img.shields.io/badge/-Artifactory-darkgreen) ![Kibana](https://img.shields.io/badge/-Kibana-pink) ![Grafana](https://img.shields.io/badge/-Grafana-orange)</span>
+<span style="font-size:1.2em;">![Ansible](https://img.shields.io/badge/-Ansible-red)
+![Nginx](https://img.shields.io/badge/-Nginx-green)
+![Apache](https://img.shields.io/badge/-Apache-black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-orange)
+![SonarQube](https://img.shields.io/badge/-SonarQube-lightblue)
+![Artifactory](https://img.shields.io/badge/-Artifactory-darkgreen)
+![Terraform](https://img.shields.io/badge/-Terraform-blue)
+</span>
 
 ---
 ## PROJECTS
