@@ -47,7 +47,7 @@ A comprehensive API built using **Flask**, featuring user registration, login wi
 A simple API built using **Flask**, providing the client's IP address, location, and a personalized greeting message.  
 [Explore the Documentation](https://github.com/mwangiii/Get_location_and_temperature)
 
-## ShopMaster  
+## ShopMaster E-Commerce website 
 An eCommerce platform built with **React** and **Tailwind**, offering secure transactions and responsive design.  
 [Explore the Documentation](https://github.com/mwangiii/shopmaster)
 
