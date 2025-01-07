@@ -35,6 +35,15 @@ Each project is documented and includes:
 - Instructions to run or deploy the project    
 
 [Explore Multi-Project Repository](https://github.com/mwangiii/Steghub-devops-training)
+
+## Podoromo Timer  
+A **Pomodoro Timer** recreated using **JavaScript**, **HTML**, and **CSS** to enhance productivity through time management techniques.  
+[Explore the Documentation](https://github.com/mwangiii/podoromo_timer)
+
+## WOTMERS AGRITECH  
+A web application aimed at transforming farming practices and boosting productivity in **Nigeria and Africa**, built using **Node.js** and **npm**.  
+[Explore the Documentation](https://github.com/mwangiii/WOTMERS_AGRITECH-S_PROJECT)      
+
 ## Kilimani Project API  
 A comprehensive API built using **Flask**, supporting features like user authentication, post creation, comments, polls, events, and high alert areas.  
 [Explore the Documentation](https://github.com/mwangiii/KILIMANI_HACKATHON)  
@@ -50,6 +59,10 @@ A simple API built using **Flask**, providing the client's IP address, location,
 ## ShopMaster E-Commerce website 
 An eCommerce platform built with **React** and **Tailwind**, offering secure transactions and responsive design.  
 [Explore the Documentation](https://github.com/mwangiii/shopmaster)
+
+## Chrome Extension  
+A **color picker Chrome extension** built with **JavaScript**, **HTML**, and **CSS**, designed to enhance user experience by selecting colors directly from the browser.  
+[Explore the Documentation](https://github.com/mwangiii/chrome-extension) 
 
 ## Maze Generator  
 A Python project that uses **codeBoot** to create and visualize random mazes by manipulating pixel grids and removing walls algorithmically.  
