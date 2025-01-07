@@ -33,6 +33,7 @@ Each project is documented and includes:
 - Screenshots of the application in action
 - Sample code snippets showcasing key features
 - Instructions to run or deploy the project    
+
 [Explore Multi-Project Repository](https://github.com/mwangiii/Steghub-devops-training)
 ## Kilimani Project API  
 A comprehensive API built using **Flask**, supporting features like user authentication, post creation, comments, polls, events, and high alert areas.  
