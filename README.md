@@ -27,13 +27,13 @@ Welcome to my GitHub portfolio! I'm **software dev** and an aspiring **Cloud Dev
 
 ---
 ## PROJECTS
-## DEVOPS PROJECTS
-- **[Multi-Project Repository](https://github.com/mwangiii/Steghub-devops-training)**
-: Contains 16 individual projects demonstrating a variety of skills and technologies.  
+## Devops/Cloud Projects
+Contains more than 16 individual projects demonstrating a variety of skills and technologies.  
 Each project is documented and includes:
-  - Screenshots of the application in action
-  - Sample code snippets showcasing key features
-  - Instructions to run or deploy the project
+- Screenshots of the application in action
+- Sample code snippets showcasing key features
+- Instructions to run or deploy the project    
+[Explore Multi-Project Repository](https://github.com/mwangiii/Steghub-devops-training)
 ## Kilimani Project API  
 A comprehensive API built using **Flask**, supporting features like user authentication, post creation, comments, polls, events, and high alert areas.  
 [Explore the Documentation](https://github.com/mwangiii/KILIMANI_HACKATHON)  
