@@ -1,9 +1,9 @@
 # HELLO! I'M KEVIN MWANGI
-Welcome to my GitHub portfolio!   
+#### Welcome to my GitHub portfolio!   
 I'm a **Software Developer** and aspiring **Cloud Developer** passionate about building and automating solutions.  
 I have experience with **JavaScript, Python, Flask, React, AWS, and DevOps tools** like **Terraform and Jenkins**.  
 I enjoy creating scalable applications, optimizing workflows and deploying cloud-based solutions with automation.  
-#### Let's connect and collaborate on innovative projects!  
+Let's connect and collaborate on innovative projects!  
 
 
 ## SKILLS
